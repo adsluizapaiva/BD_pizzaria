@@ -41,3 +41,9 @@ SELECT IPC.COD_PRODUTO, P.NOME AS NOME_PRODUTO, IPC.QTD_ITEM_PEDIDO_COMPRA, P.VL
 FROM ITEM_PEDIDO_COMPRA IPC
 INNER JOIN PRODUTO P ON P.COD_PRODUTO = IPC.COD_PRODUTO;
 ```
+
+### Conclusão
+Este trabalho faz parte do curso de Análise e Desenvolvimento de Sistemas da Faculdade Newton Paiva e foi desenvolvido por Luiza Paiva (ads.luizapaiva@gmail.com). Contribuições e feedback são bem-vindos para aprimorar ainda mais este projeto simulado.
+
+Agradecemos por explorar o repositório do PIZZARIA!
+```
